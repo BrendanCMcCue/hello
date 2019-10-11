@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BrendanCMcCue/hello/static/css/main.b100e6da.chunk.css",
+    "main.js": "/BrendanCMcCue/hello/static/js/main.46146846.chunk.js",
+    "main.js.map": "/BrendanCMcCue/hello/static/js/main.46146846.chunk.js.map",
+    "runtime-main.js": "/BrendanCMcCue/hello/static/js/runtime-main.6f7ed454.js",
+    "runtime-main.js.map": "/BrendanCMcCue/hello/static/js/runtime-main.6f7ed454.js.map",
+    "static/js/2.b4bba4c4.chunk.js": "/BrendanCMcCue/hello/static/js/2.b4bba4c4.chunk.js",
+    "static/js/2.b4bba4c4.chunk.js.map": "/BrendanCMcCue/hello/static/js/2.b4bba4c4.chunk.js.map",
+    "index.html": "/BrendanCMcCue/hello/index.html",
+    "precache-manifest.a003d8bdf295b8fe3a5806291f3a03a5.js": "/BrendanCMcCue/hello/precache-manifest.a003d8bdf295b8fe3a5806291f3a03a5.js",
+    "service-worker.js": "/BrendanCMcCue/hello/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/BrendanCMcCue/hello/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/BrendanCMcCue/hello/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f7ed454.js",
+    "static/js/2.b4bba4c4.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.46146846.chunk.js"
+  ]
+}
